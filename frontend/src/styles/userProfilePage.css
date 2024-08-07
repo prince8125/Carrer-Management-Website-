@@ -1,0 +1,145 @@
+/* Card styles */
+.pro_container{
+  background-image: url('https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+}
+.upp_card {
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.upp_card-body {
+  padding: 20px;
+}
+
+.upp_card-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.upp_card-text {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+/* Button styles */
+.upp_btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  user-select: none;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  background-color: #007bff;
+  color: #fff;
+}
+
+.upp_btn-primary {
+  background-color: #007bff;
+}
+
+.upp_btn-danger {
+  background-color: #dc3545;
+}
+
+.upp_float-end {
+  float: right;
+}
+
+/* Add custom styling to UserNavbar */
+.upp_user-navbar {
+  background-color: #f8f9fa;
+  padding: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.upp_user-navbar h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+
+/* Add custom styling to Skills and Links sections */
+.upp_skills-section,
+.upp_links-section {
+  margin-bottom: 20px;
+}
+
+.upp_skills-section h1,
+.upp_links-section h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.upp_skill-card,
+.upp_link-card {
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.upp_skill-card h5,
+.upp_link-card h5 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.upp_skill-card p,
+.upp_link-card p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.upp_skill-card button,
+.upp_link-card button {
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+.upp_skill-card button:hover,
+.upp_link-card button:hover {
+  background-color: #c82333;
+}
+
+/* Add custom styling to Add Skill and Add Link buttons */
+.upp_add-skill-button,
+.upp_add-link-button {
+  margin-top: 10px;
+}
+
+.upp_add-skill-button .upp_btn,
+.upp_add-link-button .upp_btn {
+  background-color: #28a745;
+}
+
+.upp_add-skill-button .upp_btn:hover,
+.upp_add-link-button .upp_btn:hover {
+  background-color: #218838;
+}

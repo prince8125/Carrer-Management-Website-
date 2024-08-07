@@ -1,0 +1,34 @@
+.uhp_heading {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .uhp_post-container {
+    margin-top: 50px;
+  }
+  
+  .uhp_post-card {
+    /* border: 1px solid #dee2e6; */
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .uhp_company-name {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .uhp_company-description {
+    margin-bottom: 15px;
+  }
+  
+  .uhp_apply-btn {
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  .uhp_no-jobs {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
