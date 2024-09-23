@@ -1,8 +1,6 @@
 # CAREER DEVELOPMENT WEBSITE
 
 
-[Demo to website](https://screenrec.com/share/TWNUpkg9EQ)
-
 
 # INSTALLATION INSTRUCTION
 - Click on the green code button on top right corner.
