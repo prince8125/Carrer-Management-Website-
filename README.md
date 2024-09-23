@@ -5,7 +5,7 @@
 # INSTALLATION INSTRUCTION
 - Click on the green code button on top right corner.
 - In HTTPS column copy the url.
-- Go to your terminal cd to location of your choice then write "git clone https://github.com/VaibhavNITK/IRIS_Rec23_211CS162_MERN.git  " . You can specify the name of folder after MERN.git, if not specified it will create folder with by default name.
+- Go to your terminal cd to location of your choice  . You can specify the name of folder after MERN.git, if not specified it will create folder with by default name.
 - cd to **backend**
 - Run command **npm i** then **npm install --global nodemon** (if not installed) then **npm run dev** on your terminal.(**DONT USE NITK NET**)
 - This will be visible on your terminal **Server is listening on port 4000
